@@ -2,7 +2,7 @@
 
 # 孤独摇滚！ / ぼっち・ざ・ろっく！ / Bocchi the Rock!
 
-此字幕为BD Ver. Fin
+此字幕为 BD Ver. Fin
 
 [字体下载](https://hazukikaguya-my.sharepoint.com/:u:/g/personal/kitaujisub_office_inari_site/Ef_RuxUq59dGvRgEsKVOXmwBt3CWor-PQjJ1kfI7Xw_0Rg?e=yyt823)
 |集数|中文标题|字幕下载|
