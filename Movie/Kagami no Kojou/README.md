@@ -14,7 +14,5 @@
 # Subtitle Staff
 
 - **翻译：** 瑠璃繪 haluka 井上音结 Rhéy
-
 - **时轴：** Ioroid
-
 - **校对：** 全是敏感词
