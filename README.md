@@ -1,2 +1,2 @@
-# 北宇治字幕组 TV/Web 剧集 番剧字幕
+# 北宇治字幕组 字幕仓库
 Chinese Subtitles By KitaujiSub
