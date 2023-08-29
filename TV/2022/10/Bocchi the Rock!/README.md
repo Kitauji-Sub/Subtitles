@@ -1,6 +1,6 @@
 ![img](https://p.inari.site/kitauji/202306/03/Bocchitherock.jpg)
 
-# 孤独摇滚！ / Bocchi the Rock!
+# 孤独摇滚！ / ぼっち・ざ・ろっく！ / Bocchi the Rock!
 
 此字幕为BD Ver. Fin
 
