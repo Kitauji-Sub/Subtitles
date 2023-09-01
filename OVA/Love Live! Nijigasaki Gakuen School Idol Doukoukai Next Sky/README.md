@@ -1,10 +1,10 @@
-![img](https://p.inari.site/kitauji/202304/25/kagaminokojo.png)
+![img](https://p.inari.site/kitauji/202306/28/NijiOVA.jpg)
 
 # LoveLive！虹咲学园学园偶像同好会 Next Sky / ラブライブ！虹ヶ咲学園スクールアイドル同好会 NEXT SKY / Love Live! Nijigasaki Gakuen School Idol Doukoukai Next Sky
 
 此字幕为 BD Ver. Fin
 
-[字体下载](https://i1.wp.com/p.inari.site/kitauji/202306/28/NijiOVA.jpg?ssl=1)
+[字体下载](https://hazukikaguya-my.sharepoint.com/:u:/g/personal/kitaujisub_office_inari_site/EZHoWeeUYJpHj2jBl869CA8B1KBcoBeplg4D0fqLMDNqsA?e=PTNFSP)
 
 |字幕下载|
 |:-:|
