@@ -8,7 +8,7 @@
 
 |字幕下载|
 |:-:|
-|[简体]() [繁體]()|
+|[简体](https://github.com/Kitauji-Sub/Subtitles/blob/main/Movie/Natsu%20e%20no%20Tunnel%2C%20Sayonara%20no%20Deguchi/%5BKitaujiSub%5D%20Natsu%20e%20no%20Tunnel%2C%20Sayonara%20no%20Deguchi.chs.ass) [繁體](https://github.com/Kitauji-Sub/Subtitles/blob/main/Movie/Natsu%20e%20no%20Tunnel%2C%20Sayonara%20no%20Deguchi/%5BKitaujiSub%5D%20Natsu%20e%20no%20Tunnel%2C%20Sayonara%20no%20Deguchi.cht.ass)|
 
 # Subtitle Staff
 
