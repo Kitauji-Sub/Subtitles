@@ -9,7 +9,7 @@
 |集数|中文标题|字幕下载|
 |:-:|:-:|:-:|
 |正片|镜之孤城|[简日](https://github.com/Kitauji-Sub/Subtitles/blob/main/Movie/Kagami%20no%20Kojou/%5BKitaujiSub%5D%20Kagami%20no%20Kojou.chs_jp.ass) [繁日](https://github.com/Kitauji-Sub/Subtitles/blob/main/Movie/Kagami%20no%20Kojou/%5BKitaujiSub%5D%20Kagami%20no%20Kojou.cht_jp.ass)|
-|SP|「镜之孤城」的过去与未来|[简体](https://github.com/Kitauji-Sub/Subtitles/blob/main/Movie/Kagami%20no%20Kojou/%5BKitaujiSub%5D%20Kagami%20no%20Kojou.SP.chs.ass) [繁体](https://github.com/Kitauji-Sub/Subtitles/blob/main/Movie/Kagami%20no%20Kojou/%5BKitaujiSub%5D%20Kagami%20no%20Kojou.SP.cht.ass)|
+|SP|「镜之孤城」的过去与未来|[简体](https://github.com/Kitauji-Sub/Subtitles/blob/main/Movie/Kagami%20no%20Kojou/%5BKitaujiSub%5D%20Kagami%20no%20Kojou.SP.chs.ass) [繁體](https://github.com/Kitauji-Sub/Subtitles/blob/main/Movie/Kagami%20no%20Kojou/%5BKitaujiSub%5D%20Kagami%20no%20Kojou.SP.cht.ass)|
 
 # Subtitle Staff
 
