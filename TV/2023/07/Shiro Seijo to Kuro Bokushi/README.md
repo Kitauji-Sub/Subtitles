@@ -14,11 +14,12 @@
 |04|被称作圣女之人|[简体](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/07/Shiro%20Seijo%20to%20Kuro%20Bokushi/%5BKitaujiSub%5D%20Shiro%20Seijo%20to%20Kuro%20Bokushi%20-%2004.chs.ass) [繁體](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/07/Shiro%20Seijo%20to%20Kuro%20Bokushi/%5BKitaujiSub%5D%20Shiro%20Seijo%20to%20Kuro%20Bokushi%20-%2004.cht.ass)|
 |05|首次远出|[简体](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/07/Shiro%20Seijo%20to%20Kuro%20Bokushi/%5BKitaujiSub%5D%20Shiro%20Seijo%20to%20Kuro%20Bokushi%20-%2005.chs.ass) [繁體](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/07/Shiro%20Seijo%20to%20Kuro%20Bokushi/%5BKitaujiSub%5D%20Shiro%20Seijo%20to%20Kuro%20Bokushi%20-%2005.cht.ass)|
 |06|阿贝尔和赫兹莉塔|[简体](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/07/Shiro%20Seijo%20to%20Kuro%20Bokushi/%5BKitaujiSub%5D%20Shiro%20Seijo%20to%20Kuro%20Bokushi%20-%2006.chs.ass) [繁體](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/07/Shiro%20Seijo%20to%20Kuro%20Bokushi/%5BKitaujiSub%5D%20Shiro%20Seijo%20to%20Kuro%20Bokushi%20-%2006.cht.ass)|
+|07|塞西莉亚的烦恼|[简体](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/07/Shiro%20Seijo%20to%20Kuro%20Bokushi/%5BKitaujiSub%5D%20Shiro%20Seijo%20to%20Kuro%20Bokushi%20-%2007.chs.ass) [繁體](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/07/Shiro%20Seijo%20to%20Kuro%20Bokushi/%5BKitaujiSub%5D%20Shiro%20Seijo%20to%20Kuro%20Bokushi%20-%2007.cht.ass)|
 
 # Subtitle Staff
 
 **翻译：** 云隐光君 鳥谷真琴厨 Arlastor 鸢白羽希怜
 
-**时轴：** EastonYuu 库德里尔
+**时轴：** EastonYuu 强酸柠檬 库德里尔
 
 **校对：** Arlastor
