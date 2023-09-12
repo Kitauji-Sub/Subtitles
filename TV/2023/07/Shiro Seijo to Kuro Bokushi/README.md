@@ -15,6 +15,7 @@
 |05|首次远出|[简体](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/07/Shiro%20Seijo%20to%20Kuro%20Bokushi/%5BKitaujiSub%5D%20Shiro%20Seijo%20to%20Kuro%20Bokushi%20-%2005.chs.ass) [繁體](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/07/Shiro%20Seijo%20to%20Kuro%20Bokushi/%5BKitaujiSub%5D%20Shiro%20Seijo%20to%20Kuro%20Bokushi%20-%2005.cht.ass)|
 |06|阿贝尔和赫兹莉塔|[简体](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/07/Shiro%20Seijo%20to%20Kuro%20Bokushi/%5BKitaujiSub%5D%20Shiro%20Seijo%20to%20Kuro%20Bokushi%20-%2006.chs.ass) [繁體](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/07/Shiro%20Seijo%20to%20Kuro%20Bokushi/%5BKitaujiSub%5D%20Shiro%20Seijo%20to%20Kuro%20Bokushi%20-%2006.cht.ass)|
 |07|塞西莉亚的烦恼|[简体](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/07/Shiro%20Seijo%20to%20Kuro%20Bokushi/%5BKitaujiSub%5D%20Shiro%20Seijo%20to%20Kuro%20Bokushi%20-%2007.chs.ass) [繁體](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/07/Shiro%20Seijo%20to%20Kuro%20Bokushi/%5BKitaujiSub%5D%20Shiro%20Seijo%20to%20Kuro%20Bokushi%20-%2007.cht.ass)|
+|08|弗雷德莉卡留下的东西|[简体](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/07/Shiro%20Seijo%20to%20Kuro%20Bokushi/%5BKitaujiSub%5D%20Shiro%20Seijo%20to%20Kuro%20Bokushi%20-%2008.chs.ass) [繁體](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/07/Shiro%20Seijo%20to%20Kuro%20Bokushi/%5BKitaujiSub%5D%20Shiro%20Seijo%20to%20Kuro%20Bokushi%20-%2008.cht.ass)|
 
 # Subtitle Staff
 
