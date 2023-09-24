@@ -12,7 +12,7 @@
 
 # Subtitle Staff
 
-**翻译：** 双柱 小企业 鳥谷真琴厨 Yukon 恋叶露 博 pluviophile Mikoi
+**翻译：** 夕灵 双柱 小企业 鳥谷真琴厨 Yukon 恋叶露 博 pluviophile Mikoi
 
 **时轴：** Scrpr 鹤翔万里 EastonYuu 落幕星辰 混乱怪魔 Ioroid 地龙流星 叶月辉夜
 
