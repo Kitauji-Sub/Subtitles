@@ -1,6 +1,6 @@
 ![img](https://p.inari.site/kitauji/202305/16/U149EP6.jpg)
 
-# 【我推的孩子】 / 【推しの子】 / 【Oshi no Ko】
+# 偶像大师 灰姑娘女孩 U149 / アイドルマスター シンデレラガールズ U149 / THE iDOLM@STER CINDERELLA GIRLS U149
 
 此字幕为 BD Ver. In Production
 
