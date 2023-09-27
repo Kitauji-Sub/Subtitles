@@ -1,4 +1,4 @@
-![img]()
+![img](https://p.inari.site/kitauji/202309/28/Frieren1.png)
 
 # 葬送的芙莉莲 / 葬送のフリーレン / Sousou no Frieren
 
