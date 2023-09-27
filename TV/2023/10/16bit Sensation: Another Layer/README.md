@@ -12,7 +12,7 @@
 
 # Subtitle Staff
 
-**翻译：** 木更 InsWan
+**翻译：** 木更 InsWan 瑠璃繪
 
 **时轴：** InsWan 落幕星辰
 
