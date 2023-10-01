@@ -26,7 +26,7 @@ Style: ED - JP,Source Han Serif JP SemiBold,50,&H000C0C0C,&H000000FF,&H00FFFFFF,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Title,,0,0,0,,--------------- Subtitle Staff&Title ---------------
-Dialogue: 0,0:18:53.36,0:18:56.95,Title,,0,0,0,,{\fs40\fsp2\fad(530,0)\pos(135,845)}字幕製作：北宇治字幕組{\fs33}{\fscx50} {\fscx100}\N{\fscx50} {\fscx100}翻譯：Yukon 戀葉露\N時軸：EastonYuu\N校對：Rhéy\N壓製：ALBUM
+Dialogue: 0,0:18:53.36,0:18:56.95,Title,,0,0,0,,{\fs40\fsp2\fad(530,0)\pos(135,845)}字幕製作：北宇治字幕組{\fs33}{\fscx50} {\fscx100}\N{\fscx50} {\fscx100}翻譯：Yukon 戀葉露\N時軸：EastonYuu\N校對：Rhéy\N壓製：ebb & flow
 Dialogue: 0,0:18:53.36,0:18:56.95,Title,,0,0,0,,{\fad(530,0))\pos(1388,842)}冒險的結束
 Comment: 0,0:00:00.00,0:00:00.00,OP - CN,,0,0,0,,--------------- OP ---------------
 Dialogue: 9,0:00:00.61,0:00:03.24,OP - CN,,0,0,0,,{\an1\pos(140,978)\clip(135,928,135,978)\t(0,300,2.5,\clip(135,928,460,978))\t(2330,0,2.5,\clip(460,928,460,978))\blur2}就好像童話故事一般
