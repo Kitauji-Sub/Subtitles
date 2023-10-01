@@ -9,6 +9,7 @@
 |集数|中文标题|字幕下载|
 |:-:|:-:|:-:|
 |01|冒险的结束|[简日](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/10/Sousou%20no%20Frieren/%5BKitaujiSub%5D%20Sousou%20no%20Frieren%20-%2001.chs_jp.ass) [繁日](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/10/Sousou%20no%20Frieren/%5BKitaujiSub%5D%20Sousou%20no%20Frieren%20-%2001.cht_jp.ass)|
+|01|也不一定要是魔法…|[简日](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/10/Sousou%20no%20Frieren/%5BKitaujiSub%5D%20Sousou%20no%20Frieren%20-%2002.chs_jp.ass) [繁日](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/10/Sousou%20no%20Frieren/%5BKitaujiSub%5D%20Sousou%20no%20Frieren%20-%2002.cht_jp.ass)|
 
 # Subtitle Staff
 
