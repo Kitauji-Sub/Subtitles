@@ -1,6 +1,6 @@
 ![img]()
 
-# 16bit的感动 Another Layer / 16bitセンセーション -ANOTHER LAYER- / 16bit Sensation: Another Layer
+# 16bit的感动 Another Layer / 16bitセンセーション -ANOTHER LAYER- / 16bit Sensation - Another Layer
 
 此字幕为 Web Ver. In Production
 
