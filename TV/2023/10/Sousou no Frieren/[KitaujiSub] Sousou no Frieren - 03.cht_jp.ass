@@ -26,7 +26,7 @@ Style: ED - JP,Source Han Serif JP SemiBold,50,&H000C0C0C,&H000000FF,&H00FFFFFF,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Title,,0,0,0,,--------------- Subtitle Staff&Title ---------------
-Dialogue: 0,0:10:20.98,0:10:23.98,Title,,0,0,0,,{\fs40\fsp2\fad(0,0)\pos(135,845)}字幕製作：北宇治字幕組{\fs33}{\fscx50} {\fscx100}\N{\fscx50} {\fscx100}翻譯：Yukon 戀葉露\N時軸：EastonYuu\N校對：Rhéy\N壓製：ALBUM
+Dialogue: 0,0:10:20.98,0:10:23.98,Title,,0,0,0,,{\fs40\fsp2\fad(0,0)\pos(135,845)}字幕製作：北宇治字幕組{\fs33}{\fscx50} {\fscx100}\N{\fscx50} {\fscx100}翻譯：Yukon 戀葉露\N時軸：EastonYuu\N校對：Rhéy\N壓製：ebb & flow
 Dialogue: 0,0:10:20.98,0:10:23.98,Title,,0,0,0,,{\fad(0,0)\pos(1390,795)}{\fs38\fsp6.5}Zoltraak
 Dialogue: 0,0:10:20.98,0:10:23.98,Title,,0,0,0,,{\fad(0,0)\pos(1373.5,842)}殺人魔法
 Dialogue: 0,0:07:09.45,0:07:11.16,Note,,0,0,0,,※メルクーア：德文「Merkur」譯為水星
