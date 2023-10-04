@@ -1,6 +1,6 @@
 ![img](https://p.inari.site/kitauji/202307/08/BLEACH.jpg)
 
-# 死神 千年血战篇-诀别谭- / BLEACH 千年血戦篇-訣別譚- / Bleach: Sennen Kessen-hen - Ketsubetsu-tan -
+# 死神 千年血战篇-诀别谭- / BLEACH 千年血戦篇-訣別譚- / Bleach - Sennen Kessen-hen - Ketsubetsu-tan -
 
 此字幕为 Web Ver. In Production
 
