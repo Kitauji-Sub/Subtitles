@@ -1,6 +1,6 @@
 ![img]()
 
-# 赛马娘 第三季 / ウマ娘 プリティーダービー Season 3 / Uma Musume: Pretty Derby Season 3
+# 赛马娘 第三季 / ウマ娘 プリティーダービー Season 3 / Uma Musume - Pretty Derby Season 3
 
 此字幕为 Web Ver. In Production
 
