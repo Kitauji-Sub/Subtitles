@@ -12,6 +12,7 @@
 |02|也不一定要是魔法…|[简日](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/10/Sousou%20no%20Frieren/%5BKitaujiSub%5D%20Sousou%20no%20Frieren%20-%2002.chs_jp.ass) [繁日](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/10/Sousou%20no%20Frieren/%5BKitaujiSub%5D%20Sousou%20no%20Frieren%20-%2002.cht_jp.ass)|
 |03|杀人魔法|[简日](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/10/Sousou%20no%20Frieren/%5BKitaujiSub%5D%20Sousou%20no%20Frieren%20-%2003.chs_jp.ass) [繁日](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/10/Sousou%20no%20Frieren/%5BKitaujiSub%5D%20Sousou%20no%20Frieren%20-%2003.cht_jp.ass)|
 |04|灵魂栖息之地|[简日](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/10/Sousou%20no%20Frieren/%5BKitaujiSub%5D%20Sousou%20no%20Frieren%20-%2004.chs_jp.ass) [繁日](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/10/Sousou%20no%20Frieren/%5BKitaujiSub%5D%20Sousou%20no%20Frieren%20-%2004.cht_jp.ass)|
+|05|死者的幻影|[简日](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/10/Sousou%20no%20Frieren/%5BKitaujiSub%5D%20Sousou%20no%20Frieren%20-%2005.chs_jp.ass) [繁日](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/10/Sousou%20no%20Frieren/%5BKitaujiSub%5D%20Sousou%20no%20Frieren%20-%2005.cht_jp.ass)|
 
 # Subtitle Staff
 
