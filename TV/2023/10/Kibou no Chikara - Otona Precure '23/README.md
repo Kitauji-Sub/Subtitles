@@ -1,4 +1,4 @@
-![img]()
+![img](https://p.inari.site/kitauji/202310/07/OtonaPrecure23.webp)
 
 # 希望的力量 成年光之美少女'23 / キボウノチカラ～オトナプリキュア‘23～ / Kibou no Chikara - Otona Precure '23
 
