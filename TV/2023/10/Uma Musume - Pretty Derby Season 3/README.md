@@ -1,4 +1,4 @@
-![img]()
+![img](https://p.inari.site/kitauji/202310/07/UmaMusumeS3.png)
 
 # 赛马娘 第三季 / ウマ娘 プリティーダービー Season 3 / Uma Musume - Pretty Derby Season 3
 
