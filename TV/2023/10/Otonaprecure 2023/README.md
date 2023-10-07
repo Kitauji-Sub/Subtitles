@@ -1,6 +1,6 @@
 ![img]()
 
-# 希望的力量 成年光之美少女'23 / キボウノチカラ～オトナプリキュア‘23～ / Otonaprecure 2023
+# 希望的力量 成年光之美少女'23 / キボウノチカラ～オトナプリキュア‘23～ / Kibou no Chikara - Otona Precure '23
 
 此字幕为 Web Ver. In Production
 
