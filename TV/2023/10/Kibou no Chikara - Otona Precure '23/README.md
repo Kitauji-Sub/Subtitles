@@ -8,7 +8,7 @@
 
 |集数|中文标题|字幕下载|
 |:-:|:-:|:-:|
-|01||[简日]() [繁日]()|
+|01|未来的模样|[简日](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/10/Kibou%20no%20Chikara%20-%20Otona%20Precure%20'23/%5BKitaujiSub%26FSD%5D%20Kibou%20no%20Chikara%20Otona%20-%20Precure%20'%2023%20-%2001.chs_jp.ass) [繁日](https://github.com/Kitauji-Sub/Subtitles/blob/main/TV/2023/10/Kibou%20no%20Chikara%20-%20Otona%20Precure%20'23/%5BKitaujiSub%26FSD%5D%20Kibou%20no%20Chikara%20Otona%20-%20Precure%20'%2023%20-%2001.cht_jp.ass)|
 
 # Subtitle Staff
 
