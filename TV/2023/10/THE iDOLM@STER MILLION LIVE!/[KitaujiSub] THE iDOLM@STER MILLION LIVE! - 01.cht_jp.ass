@@ -796,22 +796,3 @@ Dialogue: 8,0:23:50.26,0:23:51.98,F-静香,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\b
 Dialogue: 8,0:23:51.98,0:23:53.18,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}お弁当が？！
 Dialogue: 8,0:23:53.18,0:23:55.86,F-静香,,700,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}うん お弁当のうどんが
 Dialogue: 8,0:23:55.86,0:23:57.66,P-未来,,700,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}うどん????!!!!!!
-
-[Aegisub Extradata]
-Data: 16,_aegi_perspective_ambient_plane,e-27595.96;-5945.18#7C4511.57;694.11#7C4388.66;1187.24#7C-27564.18;-5705.70
-Data: 23,_aegi_perspective_ambient_plane,e-5780.38;-557.73#7C3059.88;900.26#7C2985.06;1320.97#7C-5807.11;-501.22
-Data: 27,_aegi_perspective_ambient_plane,e-7507.17;-3776.41#7C2090.07;1396.14#7C2036.98;1571.94#7C-7549.51;-3710.39
-Data: 32,_aegi_perspective_ambient_plane,e765.74;412.00#7C1365.82;207.56#7C1394.26;678.68#7C751.51;796.01
-Data: 34,_aegi_perspective_ambient_plane,e765.74;412.00#7C1365.82;207.55#7C1394.27;678.68#7C751.51;796.01
-Data: 42,_aegi_perspective_ambient_plane,e636.06;663.69#7C1166.38;338.52#7C1234.09;384.15#7C681.10;735.99
-Data: 44,_aegi_perspective_ambient_plane,e-446.01;1348.92#7C1724.26;9.52#7C1763.53;20.79#7C-458.70;1416.56
-Data: 46,_aegi_perspective_ambient_plane,e-226.48;762.72#7C1290.38;-42.83#7C1320.44;-32.65#7C-230.47;801.98
-Data: 49,_aegi_perspective_ambient_plane,e-565.38;300.82#7C468.31;-173.92#7C495.54;-168.20#7C-566.57;325.94
-Data: 56,_aegi_perspective_ambient_plane,e309.25;149.00#7C1036.25;13.00#7C1328.25;883.00#7C563.25;1057.00
-Data: 57,_aegi_perspective_ambient_plane,e1002.93;529.62#7C1806.50;361.64#7C1869.43;526.31#7C1058.38;702.31
-Data: 58,_aegi_perspective_ambient_plane,e921.41;436.85#7C1668.36;284.23#7C1698.76;365.43#7C948.34;521.68
-Data: 60,_aegi_perspective_ambient_plane,e921.38;436.69#7C1668.42;284.05#7C1698.83;365.28#7C948.31;521.54
-Data: 62,_aegi_perspective_ambient_plane,e921.33;436.59#7C1668.31;283.97#7C1698.72;365.22#7C948.27;521.46
-Data: 63,_aegi_perspective_ambient_plane,e432.33;-206.95#7C1007.62;-306.51#7C1059.45;-154.74#7C478.76;-50.21
-Data: 64,_aegi_perspective_ambient_plane,e656.28;509.89#7C1213.74;395.53#7C1242.12;479.22#7C681.96;596.31
-Data: 65,_aegi_perspective_ambient_plane,e1122.77;1001.41#7C1891.48;824.18#7C1924.42;911.81#7C1152.04;1093.18
