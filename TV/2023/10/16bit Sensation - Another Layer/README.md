@@ -1,4 +1,4 @@
-![img](https://p.inari.site/kitauji/202310/07/16bit.png)
+![img](https://p.inari.site/kitauji/202310/21/16bit2.png)
 
 # 16bit的感动 Another Layer / 16bitセンセーション -ANOTHER LAYER- / 16bit Sensation - Another Layer
 
