@@ -5,3 +5,5 @@
 - [镜之孤城](https://github.com/Kitauji-Sub/Subtitles/blob/main/Movie/Kagami%20no%20Kojou/README.md)  ( BD Ver. Fin )
 - [超级马力欧兄弟大电影]() by EuphoniumSub ( Web Ver. Fin )
 - [金之国 水之国]()  ( BD Ver. In Production )
+- [BLUE GIANT](https://github.com/Kitauji-Sub/Subtitles/blob/main/Movie/BLUE%20GIANT/README.md)  ( BD Ver. Fin )
+- 
