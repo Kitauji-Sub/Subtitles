@@ -8,7 +8,7 @@
 
 |字幕下载|
 |:-:|
-|[简体](<[KitaujiSub] BLUE GIANT.chs_jp.ass>) [繁體](<[KitaujiSub] BLUE GIANT.cht_jp.ass>)|
+|[简日](<[KitaujiSub] BLUE GIANT.chs_jp.ass>) [繁日](<[KitaujiSub] BLUE GIANT.cht_jp.ass>)|
 
 # Subtitle Staff
 
