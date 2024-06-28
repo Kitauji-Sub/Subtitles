@@ -8,7 +8,7 @@
 
 |字幕下载|
 |:-:|
-|[简体](https://github.com/Kitauji-Sub/Subtitles/blob/main/OVA/Love%20Live!%20Nijigasaki%20Gakuen%20School%20Idol%20Doukoukai%20Next%20Sky/%5BKitaujiSub%5D%20Love%20Live!%20Nijigasaki%20Gakuen%20School%20Idol%20Doukoukai%20Next%20Sky.chs.ass) [繁體](https://github.com/Kitauji-Sub/Subtitles/blob/main/OVA/Love%20Live!%20Nijigasaki%20Gakuen%20School%20Idol%20Doukoukai%20Next%20Sky/%5BKitaujiSub%5D%20Love%20Live!%20Nijigasaki%20Gakuen%20School%20Idol%20Doukoukai%20Next%20Sky.cht.ass)|
+|[简体](<[KitaujiSub] Love Live! Nijigasaki Gakuen School Idol Doukoukai Next Sky.chs.ass>) [繁體](<[KitaujiSub] Love Live! Nijigasaki Gakuen School Idol Doukoukai Next Sky.cht.ass>)|
 
 # Subtitle Staff
 
