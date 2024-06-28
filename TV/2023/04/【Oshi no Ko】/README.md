@@ -3,9 +3,9 @@
 
 # 【我推的孩子】 / 【推しの子】 / 【Oshi no Ko】
 
-此字幕为 BD Ver. In Production
+此字幕为 BD Ver. In Production（正在制作 BDRip 合集，鸽一会）
 
-[字体下载]()
+[字体下载（于完结后放上链接）]()
 
 |集数|中文标题|字幕下载|
 |:-:|:-:|:-:|
@@ -13,8 +13,10 @@
 
 # Subtitle Staff
 
-**翻译：** 吃巧克力的狗0 Arlastor InsWan 望月ももか haruru Fecuo木易 物んち 深藏blue 镜理理 左右盲
+**翻译：** 吃巧克力的狗0  Arlastor  InsWan  望月ももか  haruru  Fecuo木易  物んち  深藏blue  镜理理  左右盲
 
-**时轴：** EastonYuu InsWan Ioroid 落幕星辰 得翛
+**时轴：** EastonYuu  InsWan  Ioroid  落幕星辰  得翛
 
-**校对：** 全是敏感词 小企业 Rhéy 望月ももか FFU2
+**校对：** 全是敏感词  小企业  Rhéy  望月ももか  FFU2
+
+**压制：** ebb & flow  Chanter
