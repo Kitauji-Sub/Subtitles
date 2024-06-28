@@ -14,7 +14,7 @@ Chinese Subtitles By KitaujiSub
 - `TV` 为每季度播出的 TV 动画
 - `Movie` 为中长篇剧场/电影
 - `Live` 为演唱会 / 舞台剧等 2.5 次元 / 三次元演出类节目
-- `OVA` 为短篇原创/剧场类动画
+- `OVA / Others` 为短篇原创 / 剧场类动画或者其他。
 
 
 ## 项目表说明
