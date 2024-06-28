@@ -2,13 +2,13 @@
 
 # 通往夏天的隧道，再见的出口 / 夏へのトンネル、さよならの出口 / Natsu e no Tunnel, Sayonara no Deguchi
 
-此字幕为 BD Ver. Fin
+此字幕为 BD Ver. Fin（仅适配 Lolihouse 版 1920*802 分辨率片源）
 
 [字体下载](https://hazukikaguya-my.sharepoint.com/:u:/g/personal/kitaujisub_office_inari_site/EeuE0YhOdFNAlKCVhJjMtsYBUefQzggNTr5EjylVsZ90pw?e=f3ig8b)
 
 |字幕下载|
 |:-:|
-|[简体](https://github.com/Kitauji-Sub/Subtitles/blob/main/Movie/Natsu%20e%20no%20Tunnel%2C%20Sayonara%20no%20Deguchi/%5BKitaujiSub%5D%20Natsu%20e%20no%20Tunnel%2C%20Sayonara%20no%20Deguchi.chs.ass) [繁體](https://github.com/Kitauji-Sub/Subtitles/blob/main/Movie/Natsu%20e%20no%20Tunnel%2C%20Sayonara%20no%20Deguchi/%5BKitaujiSub%5D%20Natsu%20e%20no%20Tunnel%2C%20Sayonara%20no%20Deguchi.cht.ass)|
+|[简体](<[KitaujiSub] Natsu e no Tunnel, Sayonara no Deguchi.chs.ass>) [繁體](<[KitaujiSub] Natsu e no Tunnel, Sayonara no Deguchi.chs.ass>)|
 
 # Subtitle Staff
 
