@@ -2,7 +2,7 @@
 
 # 葬送的芙莉莲 / 葬送のフリーレン / Sousou no Frieren
 
-此字幕为 Web Ver. In Production
+此字幕为 BD Ver. In Production（将于 BD 全部放流后制作 BDRip 合集）
 
 [字体下载（于完结后放上链接）]()
 
@@ -21,8 +21,10 @@
 
 # Subtitle Staff
 
-**翻译：** 灯露椎 Yukon pluviophile 恋叶露 伊平
+**翻译：** 灯露椎  Yukon  pluviophile  恋叶露  伊平
 
-**时轴：** EastonYuu 恋叶露
+**时轴：** EastonYuu  恋叶露
 
-**校对：**  Rhéy
+**校对：** Rhéy
+
+**压制：** ebb & flow
