@@ -4,6 +4,7 @@
 
 此字幕为 Web Ver. Fin
 
+[字幕下载](https://hazukikaguya-my.sharepoint.com/:u:/g/personal/kitaujisub_office_inari_site/EX-m9wpUAWJBkw7NOcXNYNIBHOJuXBChNvTdgUYcQpUcdg?e=PbwKgP)
 [字体下载](https://hazukikaguya-my.sharepoint.com/:u:/g/personal/kitaujisub_office_inari_site/EeknogrqwABEmqMT4FsbYToBUsCZL8cIMPc0qZR2ESXBvg?e=95Tt2I)
 
 |集数|中文标题|字幕下载|
