@@ -1,11 +1,11 @@
-[簡體中文](README.md) | 繁體中文
+[简体中文](README.md) | **繁體中文**
 
 # 北宇治字幕組 字幕倉庫
 
-Chinese Subtitles By KitaujiSub
+Chinese Subtitles by KitaujiSub
 
 **字幕倉庫不保證及時更新字幕文件，也不保證所有字幕都會匹配 BD 源**。
-具體情況可以查看[項目表](https://github.com/orgs/Kitauji-Sub/projects/2)或字幕倉庫單個作品的 README 查看適配情況。
+具體情況可以查看 [項目表](https://github.com/orgs/Kitauji-Sub/projects/2) 或字幕倉庫單個作品的 README 查看適配情況。
 
 字幕報錯可於交流群組找管理員，也可以提交 [issue](https://github.com/Kitauji-Sub/Subtitles/issues) 或者 Pull request。
 
@@ -54,8 +54,8 @@ Chinese Subtitles By KitaujiSub
 
 如果在協議允許的範圍之外對字幕作品進行了修改，請自己收好，不要對外公開發布，非常感謝您的配合。
 
-- Subtitle Staff 未標註**繁化**的字幕，均為[繁化姬](https://zhconvert.org/)繁體化或台灣化，且未經過人工複查。
+- Subtitle Staff 未標註**繁化**的字幕，均為 [繁化姬](https://zhconvert.org/) 繁體化或台灣化，且未經過人工複查。
 
-- 如有繁體報錯，也請於交流群組向管理員報錯或 [issue](https://github.com/Kitauji-Sub/Subtitles/issues) 和 Pull request。
+- 如有繁體報錯，也請於交流群組向管理員報錯或提交 [issue](https://github.com/Kitauji-Sub/Subtitles/issues) 和 pull request。
 
 - 如有疑問，請於 [Telegram 頻道](https://t.me/KitaUji) 聯繫本組。
