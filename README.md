@@ -38,7 +38,7 @@ Chinese Subtitles by KitaujiSub
 
 ## 字幕转载及繁化说明
 
-本组字幕作品基于 [CC BY-NC-ND 4.0 协议](https://creativecommons.org/licenses/by-nc-nd/4.0/) 进行共享。
+除非另外声明，本组字幕作品基于 [CC BY-NC-ND 4.0 协议](https://creativecommons.org/licenses/by-nc-nd/4.0/) 进行共享。
 
 **除协议允许的范围外，我们额外赋予您以下权利**
 
