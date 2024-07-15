@@ -7,7 +7,7 @@ Chinese Subtitles by KitaujiSub
 **字幕倉庫不保證及時更新字幕文件，也不保證所有字幕都會匹配 BD 源**。
 具體情況可以查看 [項目表](https://github.com/orgs/Kitauji-Sub/projects/2) 或字幕倉庫單個作品的 README 查看適配情況。
 
-字幕報錯可於交流群組找管理員，也可以提交 [issue](https://github.com/Kitauji-Sub/Subtitles/issues) 或者 Pull request。
+字幕報錯可於交流群組找管理員，也可以提交 [issue](https://github.com/Kitauji-Sub/Subtitles/issues) 或者 pull request。
 
 本組的字幕倉庫以大類分類，以年份和季度進一步歸納整理。
 - `Hibike! Euphonium` 為《吹響吧！上低音號》系列的字幕作品，目前正在製作全系列字幕合集，製作完畢會上傳全部字幕文件。
