@@ -2,7 +2,7 @@
 
 # 异世界自杀小队 / 異世界自殺突擊隊 / Suicide Squad Isekai / 異世界スーサイド・スクワッド
 
-此字幕为 Web Ver. In（无切片头，对应 AMZN 原片）
+此字幕为 Web Ver. Inproduction（无切片头，对应 AMZN 原片）
 
 [字体下载（于完结后放上链接）]()
 
