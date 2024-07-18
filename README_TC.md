@@ -4,17 +4,17 @@
 
 Chinese Subtitles by KitaujiSub
 
-**字幕倉庫不保證及時更新字幕文件，也不保證所有字幕都會匹配 BD 源**。
+**字幕倉庫不保證及時更新字幕檔案，也不保證所有字幕都會匹配 BD 源**。
 具體情況可以查看 [項目表](https://github.com/orgs/Kitauji-Sub/projects/2) 或字幕倉庫單個作品的 README 查看適配情況。
 
-字幕報錯可於交流群組找管理員，也可以提交 [issue](https://github.com/Kitauji-Sub/Subtitles/issues) 或者 pull request。
+字幕報錯可於交流群組找管理員，也可以提交 [issue](https://github.com/Kitauji-Sub/Subtitles/issues) / pull request。
 
 本組的字幕倉庫以大類分類，以年份和季度進一步歸納整理。
-- `Hibike! Euphonium` 為《吹響吧！上低音號》系列的字幕作品，目前正在製作全系列字幕合集，製作完畢會上傳全部字幕文件。
+- `Hibike! Euphonium` 為《吹響吧！上低音號》系列的字幕作品，目前正在製作全系列字幕合集，製作完畢會上傳全部字幕檔案
 - `TV` 為每季度播出的 TV 動畫
-- `Movie` 為中長篇劇場/電影
+- `Movie` 為中長篇劇場 / 電影
 - `Live` 為演唱會 / 舞台劇等 2.5 次元 / 三次元演出類節目
-- `OVA / Others` 為短篇原創 / 劇場類動畫或者其他。
+- `OVA / Others` 為短篇原創 / 劇場類動畫或其他
 
 
 ## 項目表說明
@@ -29,8 +29,8 @@ Chinese Subtitles by KitaujiSub
 2. Language
 - `CH Only` 僅中文
 - `CH&EN` 英文字幕來自串流媒體原生字幕
-- `CH&JP` 日文字幕一般來源於日本電視台 / 串流媒體（如 Netflix / Amazon Prime video）或者 BD 自帶的圖形字幕，也可能為人工聽寫
-- **我們不保證日文字幕百分之百的準確性，僅供參考，如需搬運日文字幕，請說明來源及保留字幕組署名。**
+- `CH&JP` 日文字幕一般來源於日本電視台 / 串流媒體（如 Netflix / Amazon Prime Video）或 BD 自帶的圖形字幕，也可能為人工聽寫
+- **我們不保證日文字幕百分之百的準確性，僅供參考，如需搬運日文字幕，請說明來源及保留字幕組署名**
 3. Collaborators
 - 與其他字幕組進行合作
 4. SubsLink
@@ -56,6 +56,6 @@ Chinese Subtitles by KitaujiSub
 
 - Subtitle Staff 未標註**繁化**的字幕，均為 [繁化姬](https://zhconvert.org/) 繁體化或台灣化，且未經過人工複查。
 
-- 如有繁體報錯，也請於交流群組向管理員報錯或提交 [issue](https://github.com/Kitauji-Sub/Subtitles/issues) 和 pull request。
+- 如有繁體報錯，也請於交流群組向管理員報錯或提交 [issue](https://github.com/Kitauji-Sub/Subtitles/issues) / pull request。
 
 - 如有疑問，請於 [Telegram 頻道](https://t.me/KitaUji) 聯繫本組。
