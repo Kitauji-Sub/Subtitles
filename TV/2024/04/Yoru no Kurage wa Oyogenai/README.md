@@ -9,7 +9,7 @@
 
 |集数|中文标题|字幕下载|
 |:-:|:-:|:-:|
-|01|-|[简日](<[KitaujiSub] Yoru no Kurage wa Oyogenai - 01.chs_jp.ass>) [繁日](<[KitaujiSub] Yoru no Kurage wa Oyogenai - 01.cht_jp.ass>)|
+|01|夜晚的水母|[简日](<[KitaujiSub] Yoru no Kurage wa Oyogenai - 01.chs_jp.ass>) [繁日](<[KitaujiSub] Yoru no Kurage wa Oyogenai - 01.cht_jp.ass>)|
 |02|芽衣的唯粉大计|[简日](<[KitaujiSub] Yoru no Kurage wa Oyogenai - 02.chs_jp.ass>) [繁日](<[KitaujiSub] Yoru no Kurage wa Oyogenai - 02.cht_jp.ass>)|
 |03|渡濑绮羽衣|[简日](<[KitaujiSub] Yoru no Kurage wa Oyogenai - 03.chs_jp.ass>) [繁日](<[KitaujiSub] Yoru no Kurage wa Oyogenai - 03.cht_jp.ass>)|
 |04|双 A 面|[简日](<[KitaujiSub] Yoru no Kurage wa Oyogenai - 04.chs_jp.ass>) [繁日](<[KitaujiSub] Yoru no Kurage wa Oyogenai - 04.cht_jp.ass>)|
