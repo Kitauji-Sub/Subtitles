@@ -9,6 +9,7 @@
 |集数|中文标题|字幕下载|
 |:-:|:-:|:-:|
 |01|专业青梅  八奈见杏菜的败北场景|[简日](<[KitaujiSub] Make Heroine ga Oosugiru! - 01.chs_jp.ass>) [繁日](<[KitaujiSub] Make Heroine ga Oosugiru! - 01.cht_jp.ass>)|
+|02|献与你注定的败北|[简日](<[KitaujiSub] Make Heroine ga Oosugiru! - 02.chs_jp.ass>) [繁日](<[KitaujiSub] Make Heroine ga Oosugiru! - 02.cht_jp.ass>)|
 
 # Subtitle Staff
 
