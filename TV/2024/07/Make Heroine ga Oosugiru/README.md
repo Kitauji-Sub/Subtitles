@@ -8,7 +8,7 @@
 
 |集数|中文标题|字幕下载|
 |:-:|:-:|:-:|
-|01|披上羊的皮毛|[简日](<[KitaujiSub] Make Heroine ga Oosugiru! - 01.chs_jp.ass>) [繁日](<[KitaujiSub] Make Heroine ga Oosugiru! - 01.cht_jp.ass>)|
+|01|专业青梅  八奈见杏菜的败北场景|[简日](<[KitaujiSub] Make Heroine ga Oosugiru! - 01.chs_jp.ass>) [繁日](<[KitaujiSub] Make Heroine ga Oosugiru! - 01.cht_jp.ass>)|
 
 # Subtitle Staff
 
