@@ -9,6 +9,7 @@
 |集数|中文标题|字幕下载|
 |:-:|:-:|:-:|
 |01|向着海中摇篮|[简体](<[KitaujiSub] ATRI -My Dear Moments- - 01.chs.ass>) [繁體](<[KitaujiSub] ATRI -My Dear Moments- - 01.cht.ass>)|
+|02|赏温馨之景|[简体](<[KitaujiSub] ATRI -My Dear Moments- - 02.chs.ass>) [繁體](<[KitaujiSub] ATRI -My Dear Moments- - 02.cht.ass>)|
 
 # Subtitle Staff
 
