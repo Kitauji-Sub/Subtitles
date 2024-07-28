@@ -10,6 +10,7 @@
 |:-:|:-:|:-:|
 |01|相爱止戈|[简日](<[KitaujiSub] Katsute Mahou Shoujo to Aku wa Tekitai shiteita - 01.chs_jp.ass>) [繁日](<[KitaujiSub] Katsute Mahou Shoujo to Aku wa Tekitai shiteita - 01.cht_jp.ass>)|
 |02|（讨伐）魔法少女（的使命）是我的|[简日](<[KitaujiSub] Katsute Mahou Shoujo to Aku wa Tekitai shiteita - 02.chs_jp.ass>) [繁日](<[KitaujiSub] Katsute Mahou Shoujo to Aku wa Tekitai shiteita - 02.cht_jp.ass>)|
+|03|然后回到原点|[简日](<[KitaujiSub] Katsute Mahou Shoujo to Aku wa Tekitai shiteita - 03.chs_jp.ass>) [繁日](<[KitaujiSub] Katsute Mahou Shoujo to Aku wa Tekitai shiteita - 03.cht_jp.ass>)|
 
 # Subtitle Staff
 
