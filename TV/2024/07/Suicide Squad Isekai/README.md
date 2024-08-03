@@ -15,6 +15,7 @@
 |05|-|[简体](<[KitaujiSub] Suicide Squad Isekai - 05.chs.ass>) [繁體](<[KitaujiSub] Suicide Squad Isekai - 05.cht.ass>)|
 |06|-|[简体](<[KitaujiSub] Suicide Squad Isekai - 06.chs.ass>) [繁體](<[KitaujiSub] Suicide Squad Isekai - 06.cht.ass>)|
 |07|-|[简体](<[KitaujiSub] Suicide Squad Isekai - 07.chs.ass>) [繁體](<[KitaujiSub] Suicide Squad Isekai - 07.cht.ass>)|
+|08|-|[简体](<[KitaujiSub] Suicide Squad Isekai - 08.chs.ass>) [繁體](<[KitaujiSub] Suicide Squad Isekai - 08.cht.ass>)|
 
 # Subtitle Staff
 
