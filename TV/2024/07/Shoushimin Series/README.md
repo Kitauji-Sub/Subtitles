@@ -16,6 +16,7 @@
 |01|披上羊的皮毛|[简日](<[KitaujiSub] Shoushimin Series - 01.chs_jp.ass>) [繁日](<[KitaujiSub] Shoushimin Series - 01.cht_jp.ass>)|
 |02|美味热可可的制作方法|[简日](<[KitaujiSub] Shoushimin Series - 02.chs_jp.ass>) [繁日](<[KitaujiSub] Shoushimin Series - 02.cht_jp.ass>)|
 |03|Humpty Dumpty|[简日](<[KitaujiSub] Shoushimin Series - 03.chs_jp.ass>) [繁日](<[KitaujiSub] Shoushimin Series - 03.cht_jp.ass>)|
+|04|孤狼之心|[简日](<[KitaujiSub] Shoushimin Series - 04.chs_jp.ass>) [繁日](<[KitaujiSub] Shoushimin Series - 04.cht_jp.ass>)|
 
 # Subtitle Staff
 
