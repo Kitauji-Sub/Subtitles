@@ -11,6 +11,7 @@
 |01|专业青梅  八奈见杏菜的败北场景|[简日](<[KitaujiSub] Make Heroine ga Oosugiru! - 01.chs_jp.ass>) [繁日](<[KitaujiSub] Make Heroine ga Oosugiru! - 01.cht_jp.ass>)|
 |02|献与你注定的败北|[简日](<[KitaujiSub] Make Heroine ga Oosugiru! - 02.chs_jp.ass>) [繁日](<[KitaujiSub] Make Heroine ga Oosugiru! - 02.cht_jp.ass>)|
 |03|未战先败的战场|[简日](<[KitaujiSub] Make Heroine ga Oosugiru! - 03.chs_jp.ass>) [繁日](<[KitaujiSub] Make Heroine ga Oosugiru! - 03.cht_jp.ass>)|
+|04|当你凝视着败犬时 败犬也在凝视着你|[简日](<[KitaujiSub] Make Heroine ga Oosugiru! - 04.chs_jp.ass>) [繁日](<[KitaujiSub] Make Heroine ga Oosugiru! - 04.cht_jp.ass>)|
 
 # Subtitle Staff
 
