@@ -12,6 +12,7 @@
 |02|献与你注定的败北|[简日](<[KitaujiSub] Make Heroine ga Oosugiru! - 02.chs_jp.ass>) [繁日](<[KitaujiSub] Make Heroine ga Oosugiru! - 02.cht_jp.ass>)|
 |03|未战先败的战场|[简日](<[KitaujiSub] Make Heroine ga Oosugiru! - 03.chs_jp.ass>) [繁日](<[KitaujiSub] Make Heroine ga Oosugiru! - 03.cht_jp.ass>)|
 |04|当你凝视着败犬时 败犬也在凝视着你|[简日](<[KitaujiSub] Make Heroine ga Oosugiru! - 04.chs_jp.ass>) [繁日](<[KitaujiSub] Make Heroine ga Oosugiru! - 04.cht_jp.ass>)|
+|05|朝云千早绕得我们团团转|[简日](<[KitaujiSub] Make Heroine ga Oosugiru! - 05.chs_jp.ass>) [繁日](<[KitaujiSub] Make Heroine ga Oosugiru! - 05.cht_jp.ass>)|
 
 # Subtitle Staff
 
