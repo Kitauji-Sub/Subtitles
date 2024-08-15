@@ -22,7 +22,7 @@ Style: OP-JP,FOT-Skip Std B,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:02:14.54,0:02:19.30,Note,,0,0,0,,————Subtitle Staff&Title————
+Comment: 0,0:00:00.00,0:00:00.00,Note,,0,0,0,,————Subtitle Staff&Title————
 Dialogue: 0,0:02:14.54,0:02:19.30,screen,,0,0,0,,{\an8\pos(960,30)\fn方正中粗雅宋_GBK\fad(523,0)\fsp0\bord2\blur4\fs50\3c&HEBEBEB&\c&H8F8552&}本字幕由北宇治字幕组制作 仅供交流试看之用 {\fs42}TG@KitaUji\N{\fs48\fscx80\fscy80}翻译：八重垣千鳥 木更 鸢白羽希怜　时轴：帕露西　校对：残焰　压制：一叶
 Comment: 0,0:00:00.00,0:00:00.00,Note,,0,0,0,,————Text————
 Dialogue: 8,0:00:06.29,0:00:08.96,Text - CN,,0,0,0,,好…好疼  好疼
@@ -229,7 +229,7 @@ Dialogue: 8,0:12:55.60,0:12:56.43,Text - CN,,0,0,0,,没有吗
 Dialogue: 8,0:12:56.43,0:12:57.30,Text - CN,,0,0,0,,有的
 Dialogue: 8,0:12:59.19,0:13:00.15,Text - CN,,0,0,0,,亚托莉
 Dialogue: 8,0:13:01.73,0:13:03.23,Text - CN,,0,0,0,,我叫做亚托莉
-Dialogue: 8,0:13:03.23,0:13:06.40,Text - CN,,0,0,0,,拼写是A  T  R  I
+Dialogue: 8,0:13:03.23,0:13:06.40,Text - CN,,0,0,0,,拼写是A T R I
 Dialogue: 8,0:13:06.40,0:13:07.23,Text - CN,,0,0,0,,亚托莉哦
 Dialogue: 8,0:13:07.70,0:13:08.53,Text - CN,,0,0,0,,亚托莉
 Dialogue: 8,0:13:09.23,0:13:10.37,Text - CN,,0,0,0,,对
@@ -396,7 +396,7 @@ Dialogue: 8,0:22:31.63,0:22:34.18,Text - CN,,0,0,0,,不要  不要啊…
 Dialogue: 8,0:22:44.94,0:22:45.86,Text - CN,,0,0,0,,亚托莉？
 Dialogue: 8,0:22:48.03,0:22:49.28,Text - CN,,0,0,0,,夏生先生
 Dialogue: 8,0:22:53.07,0:22:56.66,Text - CN,,0,0,0,,我会成为主人你的腿的！
-Comment: 0,0:22:56.87,0:22:58.87,Note,,0,0,0,,————Screen————
+Comment: 0,0:00:00.00,0:00:00.00,Note,,0,0,0,,————Screen————
 Dialogue: 0,0:02:14.54,0:02:19.30,screen,,0,0,0,,{\clip(126,938,843,940)\pos(490,1027)\fn方正中粗雅宋_GBK\fad(523,0)\fsp5\bord2\blur4\fs87\3c&HEBEBEB&\c&HDAC465&}Log 01 {\fsp10\fs65}向着海中摇篮
 Dialogue: 0,0:02:14.54,0:02:19.30,screen,,0,0,0,,{\clip(126,940,843,942)\pos(490,1027)\fn方正中粗雅宋_GBK\fad(523,0)\fsp5\bord2\blur4\fs87\3c&HEBEBEB&\c&HD8C264&}Log 01 {\fsp10\fs65}向着海中摇篮
 Dialogue: 0,0:02:14.54,0:02:19.30,screen,,0,0,0,,{\clip(126,942,843,944)\pos(490,1027)\fn方正中粗雅宋_GBK\fad(523,0)\fsp5\bord2\blur4\fs87\3c&HEBEBEB&\c&HD6C063&}Log 01 {\fsp10\fs65}向着海中摇篮
@@ -450,7 +450,7 @@ Dialogue: 0,0:02:14.54,0:02:19.30,screen,,0,0,0,,{\clip(126,1036,843,1038)\pos(4
 Dialogue: 0,0:02:14.54,0:02:19.30,screen,,0,0,0,,{\clip(126,1038,843,1040)\pos(490,1027)\fn方正中粗雅宋_GBK\fad(523,0)\fsp5\bord2\blur4\fs87\3c&HEBEBEB&\c&H7C633A&}Log 01 {\fsp10\fs65}向着海中摇篮
 Dialogue: 0,0:02:14.54,0:02:19.30,screen,,0,0,0,,{\clip(126,1040,843,1042)\pos(490,1027)\fn方正中粗雅宋_GBK\fad(523,0)\fsp5\bord2\blur4\fs87\3c&HEBEBEB&\c&H7B623A&}Log 01 {\fsp10\fs65}向着海中摇篮
 Comment: 0,0:00:00.00,0:00:00.00,Note,,0,0,0,,——Note——
-Dialogue: 8,0:21:00.21,0:21:02.71,Note,,0,0,0,,※  ぽんこち：钓鱼用语，指的是旧的钓鱼用具，此处指摩托车
+Dialogue: 8,0:21:00.21,0:21:02.71,Note,,0,0,0,,※ ぽんこち：钓鱼用语，指的是旧的钓鱼用具，此处指摩托车
 Comment: 0,0:00:00.00,0:00:00.00,Note,,0,0,0,,——OP——
 Dialogue: 4,0:23:08.30,0:23:15.60,OP-JP,,0,0,0,,{\fad(200,200)}きっと　そう僕たちは　太古の時代から
 Dialogue: 3,0:23:08.30,0:23:15.60,OP-CN,,0,0,0,,{\fad(200,200)}一定没错 我们自那远古时代开始
