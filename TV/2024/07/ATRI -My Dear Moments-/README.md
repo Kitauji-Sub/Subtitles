@@ -12,6 +12,7 @@
 |02|赏温馨之景|[简体](<[KitaujiSub] ATRI -My Dear Moments- - 02.chs.ass>) [繁體](<[KitaujiSub] ATRI -My Dear Moments- - 02.cht.ass>)|
 |03|杀手•杂鱼•学校|[简体](<[KitaujiSub] ATRI -My Dear Moments- - 03.chs.ass>) [繁體](<[KitaujiSub] ATRI -My Dear Moments- - 03.cht.ass>)|
 |04|螃蟹和电力很重要|[简体](<[KitaujiSub] ATRI -My Dear Moments- - 04.chs.ass>) [繁體](<[KitaujiSub] ATRI -My Dear Moments- - 04.cht.ass>)|
+|05|在夜灯下笑一个|[简体](<[KitaujiSub] ATRI -My Dear Moments- - 05.chs.ass>) [繁體](<[KitaujiSub] ATRI -My Dear Moments- - 05.cht.ass>)|
 
 # Subtitle Staff
 
