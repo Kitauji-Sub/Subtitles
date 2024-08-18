@@ -4,7 +4,7 @@
 
 此字幕为 Web Ver. Fin（无切片头，对应 AMZN 原片）
 
-[字幕下载](https://hazukikaguya-my.sharepoint.com/:u:/g/personal/kitaujisub_office_inari_site/EYbEpFoRwPdKj2Naa4N0O6gBjb8_mPe4_pkiCdVW-CjLGg?e=7drjtN)
+[字幕下载](https://hazukikaguya-my.sharepoint.com/:u:/g/personal/kitaujisub_office_inari_site/Ea5S1yxWqIdBs_29Ke5EeToBGdccm2LT-A1dFPP9kaZkag?e=qfYisD)
 
 [字体下载](https://hazukikaguya-my.sharepoint.com/:u:/g/personal/kitaujisub_office_inari_site/EQQf4hm4FsdCqsTIPNfUcAMBNW1PFzdVVLmZSmdz6YvEGg?e=S4LqAb)
 
