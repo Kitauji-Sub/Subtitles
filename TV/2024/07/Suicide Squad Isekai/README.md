@@ -2,9 +2,11 @@
 
 # 异世界自杀小队 / 異世界自殺突擊隊 / Suicide Squad Isekai / 異世界スーサイド・スクワッド
 
-此字幕为 Web Ver. Inproduction（无切片头，对应 AMZN 原片）
+此字幕为 Web Ver. Fin（无切片头，对应 AMZN 原片）
 
-[字体下载（于完结后放上链接）]()
+[字幕下载](https://hazukikaguya-my.sharepoint.com/:u:/g/personal/kitaujisub_office_inari_site/EYbEpFoRwPdKj2Naa4N0O6gBjb8_mPe4_pkiCdVW-CjLGg?e=7drjtN)
+
+[字体下载](https://hazukikaguya-my.sharepoint.com/:u:/g/personal/kitaujisub_office_inari_site/EQQf4hm4FsdCqsTIPNfUcAMBNW1PFzdVVLmZSmdz6YvEGg?e=S4LqAb)
 
 |集数|中文标题|字幕下载|
 |:-:|:-:|:-:|
@@ -17,6 +19,7 @@
 |07|-|[简体](<[KitaujiSub] Suicide Squad Isekai - 07.chs.ass>) [繁體](<[KitaujiSub] Suicide Squad Isekai - 07.cht.ass>)|
 |08|-|[简体](<[KitaujiSub] Suicide Squad Isekai - 08.chs.ass>) [繁體](<[KitaujiSub] Suicide Squad Isekai - 08.cht.ass>)|
 |09|-|[简体](<[KitaujiSub] Suicide Squad Isekai - 09.chs.ass>) [繁體](<[KitaujiSub] Suicide Squad Isekai - 09.cht.ass>)|
+|10|-|[简体](<[KitaujiSub] Suicide Squad Isekai - 10.chs.ass>) [繁體](<[KitaujiSub] Suicide Squad Isekai - 10.cht.ass>)|
 
 # Subtitle Staff
 
@@ -26,4 +29,4 @@
 
 **校对：** 双柱
 
-**压制：** Chanter
+**压制：** Chanter  ebb & flow

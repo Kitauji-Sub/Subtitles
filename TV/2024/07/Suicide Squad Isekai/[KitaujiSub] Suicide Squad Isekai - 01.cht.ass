@@ -10,11 +10,6 @@ PlayResX: 1920
 PlayResY: 1080
 LayoutResX: 1920
 LayoutResY: 1080
-Original Script: KitaujiSub
-Original Translation: RottenRook
-Original Editing: 双柱
-Original Timing: Joker
-Script Updated By: Chanter
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,7 +24,7 @@ Style: Staff,Source Han Sans TC,50,&H00F5F5F5,&H000000FF,&H00252525,&H00000000,-
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:09:29.72,0:09:33.97,Title,,0,0,0,,{\fad(500,0)\pos(960,1025)\bord0\shad3}異世界自殺突擊隊
 Dialogue: 0,0:09:29.72,0:09:33.97,Staff,,0,0,0,,{\an8\fad(500,0)\pos(960,30)\fs55\bord0\shad3}本字幕由北宇治字幕組製作　僅供交流試看之用　TG@KitaUji
-Dialogue: 0,0:09:29.72,0:09:33.97,Staff,,0,0,0,,{\fad(500,0)\pos(960,1068)\bord0\shad3}翻譯: RottenRook　時軸: Joker　校對: 雙柱　壓製: Chanter
+Dialogue: 0,0:09:29.72,0:09:33.97,Staff,,0,0,0,,{\fad(500,0)\pos(960,1068)\bord0\shad3}翻譯: RottenRook　時軸: Joker　校對: 雙柱　壓製: ebb & flow
 Dialogue: 0,0:09:33.97,0:09:36.97,Screen,,0,0,0,,{\fad(0,500)\fn方正粗雅宋_GBK\bord1\blur3\fs47\pos(960,1080)}半年後
 Dialogue: 0,0:09:38.39,0:09:43.98,Screen,,0,0,0,,{\fad(500,0)\fn方正粗雅宋_GBK\bord1\blur3\fs47\pos(960,1080)}超級人類研究中心  簡稱：A・R・G・U・S
 Dialogue: 0,0:19:09.71,0:19:12.30,Screen,,0,0,0,,{\fad(150,150)\pos(960,1065)\bord4\blur6\c&HDFDDDD&\3c&HCB5923&}鯊魚形態的超人類  幼兒園智商  鯊魚王

@@ -10,11 +10,6 @@ PlayResX: 1920
 PlayResY: 1080
 LayoutResX: 1920
 LayoutResY: 1080
-Original Script: KitaujiSub
-Original Translation: RottenRook
-Original Editing: 双柱
-Original Timing: Joker
-Script Updated By: Chanter
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -24,14 +19,14 @@ Style: Screen,Source Han Sans SC,80,&H00F5F5F5,&H000000FF,&H00252525,&H00000000,
 Style: Note,Source Han Sans SC Medium,53,&H00F5F5F5,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,1,0,1,2.5,0,7,30,30,30,1
 Style: Title,Dream Han Sans SC W27,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,5,0,1,3,0,2,10,10,10,1
 Style: Staff,Source Han Sans SC,50,&H00F5F5F5,&H000000FF,&H00252525,&H00000000,-1,0,0,0,100,100,1,0,1,2.5,0,2,10,10,50,1
-Style: ED - EN/JP,Dream Han Sans J W18,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,5,0,8,10,10,30,1
+Style: ED - EN/JP,Dream Han Sans J W18,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,3,0,8,10,10,30,1
 Style: ED - CN,Dream Han Sans SC W18,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,3,0,2,10,10,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:03:33.11,0:03:37.03,Title,,0,0,0,,{\pos(960,1025)\bord0\shad3}异世界自杀小队
 Dialogue: 0,0:03:33.11,0:03:37.03,Staff,,0,0,0,,{\an8\pos(960,30)\fs55\bord0\shad3}本字幕由北宇治字幕组制作　仅供交流试看之用　TG@KitaUji
-Dialogue: 0,0:03:33.11,0:03:37.03,Staff,,0,0,0,,{\pos(960,1068)\bord0\shad3}翻译: RottenRook　时轴: Joker　校对: 双柱　压制: Chanter
+Dialogue: 0,0:03:33.11,0:03:37.03,Staff,,0,0,0,,{\pos(960,1068)\bord0\shad3}翻译: RottenRook　时轴: Joker　校对: 双柱　压制: ebb & flow
 Dialogue: 0,0:22:45.59,0:22:47.00,ED - EN/JP,,0,0,0,,{\fad(200,0)\blur5\3c&H3416B6&}Checkmate, I’m a superstar
 Dialogue: 0,0:22:45.59,0:22:47.00,ED - CN,,0,0,0,,{\fad(200,0)\blur5\3c&H3416B6&}将军了  我是超级明星
 Dialogue: 0,0:22:47.00,0:22:48.47,ED - EN/JP,,0,0,0,,{\blur5\3c&H3416B6&}Stay insane, but you rock with it
