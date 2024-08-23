@@ -4,6 +4,7 @@
 
 此字幕为 Web Ver. Fin（无切片头，对应 Netflix 原片）
 
+[字幕下载](https://hazukikaguya-my.sharepoint.com/:u:/g/personal/kitaujisub_office_inari_site/EaSYn03jsFJDpSu5QqoiwsABpcbmb2d_VIe4ppSZsDd6nQ?e=MrfPEt)
 [字体下载](https://hazukikaguya-my.sharepoint.com/:u:/g/personal/kitaujisub_office_inari_site/EbCNTGCW4N5Ni8Zt48L94LEBWLDKkWSbWZL-n8OUagyzgQ?e=cKGzLT)
 
 |集数|中文标题|字幕下载|
