@@ -15,6 +15,7 @@
 |05|朝云千早绕得我们团团转|[简日](<[KitaujiSub] Make Heroine ga Oosugiru! - 05.chs_jp.ass>) [繁日](<[KitaujiSub] Make Heroine ga Oosugiru! - 05.cht_jp.ass>)|
 |06|你们中间谁是没有被甩过的 谁就可以拿石头扔败犬女主|[简日](<[KitaujiSub] Make Heroine ga Oosugiru! - 06.chs_jp.ass>) [繁日](<[KitaujiSub] Make Heroine ga Oosugiru! - 06.cht_jp.ass>)|
 |07|Happy End 的另一面|[简日](<[KitaujiSub] Make Heroine ga Oosugiru! - 07.chs_jp.ass>) [繁日](<[KitaujiSub] Make Heroine ga Oosugiru! - 07.cht_jp.ass>)|
+|08|烦恼的时候 就找人商量下吧|[简日](<[KitaujiSub] Make Heroine ga Oosugiru! - 08.chs_jp.ass>) [繁日](<[KitaujiSub] Make Heroine ga Oosugiru! - 08.cht_jp.ass>)|
 
 # Subtitle Staff
 
