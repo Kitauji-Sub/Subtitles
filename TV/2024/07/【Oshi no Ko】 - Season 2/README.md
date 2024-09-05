@@ -16,3 +16,4 @@
 |17|成长|[简日](<[Kitauji&STYH&H-BBR] 【Oshi no Ko】- 17.chs_jp.ass>) [繁日](<[Kitauji&STYH&H-BBR] 【Oshi no Ko】- 17.cht_jp.ass>)|
 |18|太阳|[简日](<[Kitauji&STYH&H-BBR] 【Oshi no Ko】- 18.chs_jp.ass>) [繁日](<[Kitauji&STYH&H-BBR] 【Oshi no Ko】- 18.cht_jp.ass>)|
 |19|契机|[简日](<[Kitauji&STYH&H-BBR] 【Oshi no Ko】- 19.chs_jp.ass>) [繁日](<[Kitauji&STYH&H-BBR] 【Oshi no Ko】- 19.cht_jp.ass>)|
+|20|梦|[简日](<[Kitauji&STYH&H-BBR] 【Oshi no Ko】- 20.chs_jp.ass>) [繁日](<[Kitauji&STYH&H-BBR] 【Oshi no Ko】- 20.cht_jp.ass>)|
