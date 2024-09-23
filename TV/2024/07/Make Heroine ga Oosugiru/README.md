@@ -18,6 +18,7 @@
 |08|烦恼的时候 就找人商量下吧|[简日](<[KitaujiSub] Make Heroine ga Oosugiru! - 08.chs_jp.ass>) [繁日](<[KitaujiSub] Make Heroine ga Oosugiru! - 08.cht_jp.ass>)|
 |09|当老师是天花板上的污渍就行 你们请继续|[简日](<[KitaujiSub] Make Heroine ga Oosugiru! - 09.chs_jp.ass>) [繁日](<[KitaujiSub] Make Heroine ga Oosugiru! - 09.cht_jp.ass>)|
 |10|要说告别还为时尚早|[简日](<[KitaujiSub] Make Heroine ga Oosugiru! - 10.chs_jp.ass>) [繁日](<[KitaujiSub] Make Heroine ga Oosugiru! - 10.cht_jp.ass>)|
+|11|来讨论一下结果责任吧|[简日](<[KitaujiSub] Make Heroine ga Oosugiru! - 11.chs_jp.ass>) [繁日](<[KitaujiSub] Make Heroine ga Oosugiru! - 11.cht_jp.ass>)|
 
 # Subtitle Staff
 
