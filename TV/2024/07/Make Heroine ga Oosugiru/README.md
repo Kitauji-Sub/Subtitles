@@ -4,7 +4,7 @@
 
 此字幕为 Web Ver. Fin
 
-[字幕下载](https://hazukikaguya-my.sharepoint.com/:u:/g/personal/kitaujisub_office_inari_site/ERXHiBd7XF5AihxbBqzzqzIBGN8ga-DfiXnEj6xb4-xmxw?e=4qJ7Kj)
+[字幕下载](https://hazukikaguya-my.sharepoint.com/:u:/g/personal/kitaujisub_office_inari_site/ERXHiBd7XF5AihxbBqzzqzIBGN8ga-DfiXnEj6xb4-xmxw?e=ye7fP6)
 
 [字体下载](https://hazukikaguya-my.sharepoint.com/:u:/g/personal/kitaujisub_office_inari_site/EXtnwcOmos5Or7K0CfNmTZABEKJXGz5wXI6GvPSFkHFD6w?e=pUXdlN)
 
