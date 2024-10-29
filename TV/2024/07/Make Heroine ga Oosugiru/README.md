@@ -2,9 +2,11 @@
 
 # 败犬女主太多了！ / 敗北女角太多了！ / Make Heroine ga Oosugiru! / 負けヒロインが多すぎる！
 
-此字幕为 Web Ver. Inproduction
+此字幕为 Web Ver. Fin
 
-[字体下载（于完结后放上链接）]()
+[字幕下载](https://hazukikaguya-my.sharepoint.com/:u:/g/personal/kitaujisub_office_inari_site/ERXHiBd7XF5AihxbBqzzqzIBGN8ga-DfiXnEj6xb4-xmxw?e=4qJ7Kj)
+
+[字体下载](https://hazukikaguya-my.sharepoint.com/:u:/g/personal/kitaujisub_office_inari_site/EXtnwcOmos5Or7K0CfNmTZABEKJXGz5wXI6GvPSFkHFD6w?e=pUXdlN)
 
 |集数|中文标题|字幕下载|
 |:-:|:-:|:-:|
@@ -19,12 +21,13 @@
 |09|当老师是天花板上的污渍就行 你们请继续|[简日](<[KitaujiSub] Make Heroine ga Oosugiru! - 09.chs_jp.ass>) [繁日](<[KitaujiSub] Make Heroine ga Oosugiru! - 09.cht_jp.ass>)|
 |10|要说告别还为时尚早|[简日](<[KitaujiSub] Make Heroine ga Oosugiru! - 10.chs_jp.ass>) [繁日](<[KitaujiSub] Make Heroine ga Oosugiru! - 10.cht_jp.ass>)|
 |11|来讨论一下结果责任吧|[简日](<[KitaujiSub] Make Heroine ga Oosugiru! - 11.chs_jp.ass>) [繁日](<[KitaujiSub] Make Heroine ga Oosugiru! - 11.cht_jp.ass>)|
+|12|难道说 我其实是最终话里突然在败犬女主身边出现 来路不明的路人甲吗|[简日](<[KitaujiSub] Make Heroine ga Oosugiru! - 12.chs_jp.ass>) [繁日](<[KitaujiSub] Make Heroine ga Oosugiru! - 12.cht_jp.ass>)|
 
 # Subtitle Staff
 
 **翻译：** 瑠璃繪  木更  恋叶露  寒山枫
 
-**时轴：** 千夏Neko  EastonYuu
+**时轴：** EastonYuu  千夏Neko
 
 **特效：** Ming
 
